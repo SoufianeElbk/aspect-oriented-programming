@@ -5,10 +5,10 @@ import java.util.Scanner;
 
 public class Application {
     public static void main(String[] args) {
-        Application.start();
+        start();
     }
 
-    private static void start() {
+    public static void start() {
         System.out.println("Demarrage de l'application...");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Donner le code du compte: ");

@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2025-12-28T23:25:55.514235Z</date>
-  <millis>1766964355514</millis>
-  <nanos>235000</nanos>
+  <date>2025-12-28T23:36:46.655348Z</date>
+  <millis>1766965006655</millis>
+  <nanos>348000</nanos>
   <sequence>0</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.542384Z</date>
-  <millis>1766964355542</millis>
-  <nanos>384000</nanos>
+  <date>2025-12-28T23:36:46.679996Z</date>
+  <millis>1766965006679</millis>
+  <nanos>996000</nanos>
   <sequence>1</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>void metier.IMetierImpl.addCompte(Compte) is about to be executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.543689Z</date>
-  <millis>1766964355543</millis>
-  <nanos>689000</nanos>
+  <date>2025-12-28T23:36:46.681384Z</date>
+  <millis>1766965006681</millis>
+  <nanos>384000</nanos>
   <sequence>2</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -38,21 +38,21 @@
   <message>void metier.IMetierImpl.addCompte(Compte) has just been executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.544857Z</date>
-  <millis>1766964355544</millis>
-  <nanos>857000</nanos>
+  <date>2025-12-28T23:36:46.682512Z</date>
+  <millis>1766965006682</millis>
+  <nanos>512000</nanos>
   <sequence>3</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>aspects.LoggingAspect</class>
   <method>after</method>
   <thread>1</thread>
-  <message>Execution time: 31 ms</message>
+  <message>Execution time: 28 ms</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.546121Z</date>
-  <millis>1766964355546</millis>
-  <nanos>121000</nanos>
+  <date>2025-12-28T23:36:46.683465Z</date>
+  <millis>1766965006683</millis>
+  <nanos>465000</nanos>
   <sequence>4</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -62,9 +62,9 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.547791Z</date>
-  <millis>1766964355547</millis>
-  <nanos>791000</nanos>
+  <date>2025-12-28T23:36:46.684565Z</date>
+  <millis>1766965006684</millis>
+  <nanos>565000</nanos>
   <sequence>5</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -74,9 +74,9 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.548880Z</date>
-  <millis>1766964355548</millis>
-  <nanos>880000</nanos>
+  <date>2025-12-28T23:36:46.685648Z</date>
+  <millis>1766965006685</millis>
+  <nanos>648000</nanos>
   <sequence>6</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -86,9 +86,9 @@
   <message>void metier.IMetierImpl.addCompte(Compte) is about to be executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.550429Z</date>
-  <millis>1766964355550</millis>
-  <nanos>429000</nanos>
+  <date>2025-12-28T23:36:46.686694Z</date>
+  <millis>1766965006686</millis>
+  <nanos>694000</nanos>
   <sequence>7</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -98,21 +98,21 @@
   <message>void metier.IMetierImpl.addCompte(Compte) has just been executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.552010Z</date>
-  <millis>1766964355552</millis>
-  <nanos>10000</nanos>
+  <date>2025-12-28T23:36:46.687745Z</date>
+  <millis>1766965006687</millis>
+  <nanos>745000</nanos>
   <sequence>8</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>aspects.LoggingAspect</class>
   <method>after</method>
   <thread>1</thread>
-  <message>Execution time: 4 ms</message>
+  <message>Execution time: 3 ms</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.555989Z</date>
-  <millis>1766964355555</millis>
-  <nanos>989000</nanos>
+  <date>2025-12-28T23:36:46.688656Z</date>
+  <millis>1766965006688</millis>
+  <nanos>656000</nanos>
   <sequence>9</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -122,9 +122,9 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.559840Z</date>
-  <millis>1766964355559</millis>
-  <nanos>840000</nanos>
+  <date>2025-12-28T23:36:46.689619Z</date>
+  <millis>1766965006689</millis>
+  <nanos>619000</nanos>
   <sequence>10</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -134,9 +134,9 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.561505Z</date>
-  <millis>1766964355561</millis>
-  <nanos>505000</nanos>
+  <date>2025-12-28T23:36:46.690605Z</date>
+  <millis>1766965006690</millis>
+  <nanos>605000</nanos>
   <sequence>11</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -146,9 +146,9 @@
   <message>void metier.IMetierImpl.addCompte(Compte) is about to be executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.563473Z</date>
-  <millis>1766964355563</millis>
-  <nanos>473000</nanos>
+  <date>2025-12-28T23:36:46.691720Z</date>
+  <millis>1766965006691</millis>
+  <nanos>720000</nanos>
   <sequence>12</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -158,21 +158,21 @@
   <message>void metier.IMetierImpl.addCompte(Compte) has just been executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.564861Z</date>
-  <millis>1766964355564</millis>
-  <nanos>861000</nanos>
+  <date>2025-12-28T23:36:46.692665Z</date>
+  <millis>1766965006692</millis>
+  <nanos>665000</nanos>
   <sequence>13</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>aspects.LoggingAspect</class>
   <method>after</method>
   <thread>1</thread>
-  <message>Execution time: 5 ms</message>
+  <message>Execution time: 3 ms</message>
 </record>
 <record>
-  <date>2025-12-28T23:25:55.566052Z</date>
-  <millis>1766964355566</millis>
-  <nanos>52000</nanos>
+  <date>2025-12-28T23:36:46.693505Z</date>
+  <millis>1766965006693</millis>
+  <nanos>505000</nanos>
   <sequence>14</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -182,9 +182,9 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:26:02.795096Z</date>
-  <millis>1766964362795</millis>
-  <nanos>96000</nanos>
+  <date>2025-12-28T23:36:50.233116Z</date>
+  <millis>1766965010233</millis>
+  <nanos>116000</nanos>
   <sequence>15</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -194,33 +194,33 @@
   <message>--------------------------------------------------------------------</message>
 </record>
 <record>
-  <date>2025-12-28T23:26:02.797407Z</date>
-  <millis>1766964362797</millis>
-  <nanos>407000</nanos>
+  <date>2025-12-28T23:36:50.235046Z</date>
+  <millis>1766965010235</millis>
+  <nanos>46000</nanos>
   <sequence>16</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>aspects.LoggingAspect</class>
   <method>before</method>
   <thread>1</thread>
-  <message>void metier.IMetierImpl.retirer(Long, double) is about to be executed.</message>
+  <message>Compte metier.IMetierImpl.consulter(Long) is about to be executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:26:02.798757Z</date>
-  <millis>1766964362798</millis>
-  <nanos>757000</nanos>
+  <date>2025-12-28T23:36:50.236904Z</date>
+  <millis>1766965010236</millis>
+  <nanos>904000</nanos>
   <sequence>17</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>aspects.LoggingAspect</class>
   <method>after</method>
   <thread>1</thread>
-  <message>void metier.IMetierImpl.retirer(Long, double) has just been executed.</message>
+  <message>Compte metier.IMetierImpl.consulter(Long) has just been executed.</message>
 </record>
 <record>
-  <date>2025-12-28T23:26:02.800584Z</date>
-  <millis>1766964362800</millis>
-  <nanos>584000</nanos>
+  <date>2025-12-28T23:36:50.238703Z</date>
+  <millis>1766965010238</millis>
+  <nanos>703000</nanos>
   <sequence>18</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -230,9 +230,9 @@
   <message>Execution time: 5 ms</message>
 </record>
 <record>
-  <date>2025-12-28T23:26:02.802032Z</date>
-  <millis>1766964362802</millis>
-  <nanos>32000</nanos>
+  <date>2025-12-28T23:36:50.240008Z</date>
+  <millis>1766965010240</millis>
+  <nanos>8000</nanos>
   <sequence>19</sequence>
   <logger>aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -241,3 +241,4 @@
   <thread>1</thread>
   <message>--------------------------------------------------------------------</message>
 </record>
+</log>
