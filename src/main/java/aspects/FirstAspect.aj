@@ -1,3 +1,4 @@
+package aspects;
 public aspect FirstAspect {
     pointcut pc1() : execution(* Application.main(..));
 
